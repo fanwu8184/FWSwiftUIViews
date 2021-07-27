@@ -1,4 +1,5 @@
 # FWSwiftUIViews
+[![Generic badge](https://img.shields.io/badge/SwiftPM-compatible-<COLOR>.svg)](https://shields.io/)
 This framework is for SwiftUI.
 
 ## Requirements
