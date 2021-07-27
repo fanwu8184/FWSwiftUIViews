@@ -36,7 +36,7 @@ ZStack {
     Text("\(String(format: "%.2f", value))")
 }
 ```
-![FWArcSliderView demo 1](FWArcSliderView01.gif)
+![FWArcSliderView demo 1](images/FWArcSliderView01.gif)
 
 ```sh
 ZStack {
@@ -49,7 +49,7 @@ ZStack {
     Text("\(String(format: "%.2f", value))")
 }
 ```
-![FWArcSliderView demo 2](FWArcSliderView02.gif)
+![FWArcSliderView demo 2](images/FWArcSliderView02.gif)
 
 ```sh
 ZStack {
@@ -64,7 +64,7 @@ ZStack {
     Text("\(String(format: "%.0f", value))")
 }
 ```
-![FWArcSliderView demo 3](FWArcSliderView03.png)
+![FWArcSliderView demo 3](images/FWArcSliderView03.png)
 
 ## Author
 Fan Wu, fanwu9877@gmail.com
