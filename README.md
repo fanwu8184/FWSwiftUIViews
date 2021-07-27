@@ -38,7 +38,7 @@ ZStack {
     Text("\(String(format: "%.2f", value))")
 }
 ```
-![FWArcSliderView demo 1](images/FWArcSliderView01.gif)
+![FWArcSliderView demo 01](images/FWArcSliderViewDemo01.gif)
 
 ```sh
 @State private var value = 6.0
@@ -53,7 +53,7 @@ ZStack {
     Text("\(String(format: "%.2f", value))")
 }
 ```
-![FWArcSliderView demo 2](images/FWArcSliderView02.gif)
+![FWArcSliderView demo 02](images/FWArcSliderViewDemo02.gif)
 
 ```sh
 @State private var value = 6.0
@@ -70,7 +70,7 @@ ZStack {
     Text("\(String(format: "%.0f", value))")
 }
 ```
-![FWArcSliderView demo 3](images/FWArcSliderView03.png)
+![FWArcSliderView demo 03](images/FWArcSliderViewDemo03.png)
 
 ## Author
 Fan Wu, fanwu9877@gmail.com
