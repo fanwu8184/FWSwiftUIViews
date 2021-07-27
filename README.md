@@ -49,7 +49,7 @@ ZStack {
     Text("\(String(format: "%.2f", value))")
 }
 ```
-![FWArcSliderView demo 2](Sources/images/FWArcSliderView02.gif)
+![FWArcSliderView demo 2](images/FWArcSliderView02.gif)
 
 ```sh
 ZStack {
