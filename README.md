@@ -27,6 +27,8 @@ onValueChangeEnded: (() -> ())? = nil
 note: if an invalid value has been set to FWArcSliderView, it will show an empty view. For example, "_value" has been set to out of the "range".
 #### Examples
 ```sh
+@State private var value = 6.0
+
 ZStack {
     FWArcSliderView(
         $value,
@@ -39,6 +41,8 @@ ZStack {
 ![FWArcSliderView demo 1](images/FWArcSliderView01.gif)
 
 ```sh
+@State private var value = 6.0
+
 ZStack {
     FWArcSliderView(
         $value,
@@ -52,6 +56,8 @@ ZStack {
 ![FWArcSliderView demo 2](images/FWArcSliderView02.gif)
 
 ```sh
+@State private var value = 6.0
+
 ZStack {
     FWArcSliderView(
         $value,
